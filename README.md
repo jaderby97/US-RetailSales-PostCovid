@@ -29,7 +29,6 @@ This analysis demonstrates the limits of conventional time-series forecasting an
 - Data visualization and storytelling  
 
 ## Repository Contents
-- `retail_sales_forecast.ipynb` – main analysis notebook  
-- `data/` – (optional) raw and cleaned data files  
-- `images/` – forecast plots and visualizations  
+- `US Retail Sales Post Covid Prediction.ipynb` – main analysis notebook  
+- `us_retail_sales` – raw data file   
 - `README.md` – project overview and documentation
